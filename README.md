@@ -1,7 +1,7 @@
 # CV
 ## Личная информация
 
-|![](https://github.com/ElizavetaKn/avt/blob/main/me.jpg)|◦ ФИО: Князева Елизавета Сергеевна <br> ◦ Дата рождения: 01.03.2005 <br> ◦ Место жительства: Минск, Беларусь <br> ◦ Группа: 210901 <br> ◦ GitHub: [ElizavetaKn](https://github.com/ElizavetaKn/ "Перейти по ссылке") <br> ◦ Gmail: liza20050103@gmail.com <br> ◦ Deploy: [ElizavetaKn.github.io/avt/](https://elizavetakn.github.io/ "Перейти по ссылке")|
+|![](https://github.com/ElizavetaKn/avt/blob/main/IMG_4935%201%20(1).png)|◦ ФИО: Князева Елизавета Сергеевна <br> ◦ Дата рождения: 01.03.2005 <br> ◦ Место жительства: Минск, Беларусь <br> ◦ Группа: 210901 <br> ◦ GitHub: [ElizavetaKn](https://github.com/ElizavetaKn/ "Перейти по ссылке") <br> ◦ Gmail: liza20050103@gmail.com <br> ◦ Deploy: [ElizavetaKn.github.io/avt/](https://elizavetakn.github.io/ "Перейти по ссылке")|
 |:---|:---|
 
 ## О себе
